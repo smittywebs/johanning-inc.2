@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 53 53"
+	 style="enable-background:new 0 0 53 53;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#006B6B;}
+	.st1{fill:#007F7F;stroke:#FFFFFF;stroke-width:0.325;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:url(#SVGID_2_);}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="53" width="53" x="0" y="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<path class="st0" d="M53,26.5C53,41.1,41.1,53,26.5,53C11.8,53,0,41.1,0,26.5C0,11.9,11.8,0,26.5,0C41.1,0,53,11.9,53,26.5z"/>
+<path class="st1" d="M50.7,26.5c0,13.4-10.8,24.2-24.2,24.2S2.3,39.9,2.3,26.5c0-13.4,10.8-24.2,24.2-24.2S50.7,13.1,50.7,26.5z"/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-636.9841" y1="399.2149" x2="-637.7579" y2="399.133" gradientTransform="matrix(36.4177 0 0 -31.4635 23243.1758 12587.6465)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.727"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st2" d="M9.4,29c-0.2,0.2-0.2,0.6,0,0.8L22.9,44l22.5-25.5c0.2-0.2,0.2-0.5,0-0.8l-5-5c-0.2-0.2-0.6-0.3-0.8,0
+		L22.8,31.6L15.2,24c-0.2-0.2-0.6-0.2-0.8,0L9.4,29L9.4,29z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-640.6342" y1="402.2764" x2="-640.2473" y2="401.695" gradientTransform="matrix(43.0765 0 0 -40.647 27604.4316 16352.0654)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st3" d="M26.5,2.3C13.1,2.3,2.3,13.2,2.3,26.5C2.3,32.9,4.9,38.7,9,43c2.1-17.5,16.9-31.1,35-31.1
+		c0.5,0,0.9,0.1,1.4,0.1C40.9,6.2,34.3,2.3,26.5,2.3L26.5,2.3z"/>
+</g>
+</svg>
