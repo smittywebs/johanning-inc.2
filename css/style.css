@@ -848,6 +848,10 @@ a {
   padding-top: 1.25rem;
 }
 
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1079,9 +1083,17 @@ a {
     background-color: rgb(0 0 0 / var(--tw-bg-opacity));
   }
 
+  .md\:p-10 {
+    padding: 2.5rem;
+  }
+
   .md\:px-12 {
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  .md\:pt-10 {
+    padding-top: 2.5rem;
   }
 
   .md\:text-white {
